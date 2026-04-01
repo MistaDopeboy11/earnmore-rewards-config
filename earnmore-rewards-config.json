@@ -15,7 +15,7 @@
     },
 
     "American Express Green": {
-      "Travel": 3, "Transit": 3, "Dining": 3, "Other": 1
+      "Travel": 10, "Transit": 3, "Dining": 3, "Other": 1
     },
     "American Express Gold": {
       "Dining": 4, "Groceries": 4, "Flights": 3, "Hotels": 2, "Other": 1
