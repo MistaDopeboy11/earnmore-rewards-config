@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "last_verified": "2026-04",
+    "notes": "Rewards rates subject to change. Always confirm on issuer website before applying."
+  },
+  "cardsDatabase": {
+
+    "Amazon Prime Visa": {
+      "Amazon": 5, "Groceries": 5, "Chase Travel": 5,
+      "Gas": 2, "Dining": 2, "Transit": 2, "Other": 1
+    },
+    "Amazon Visa": {
+      "Amazon": 3, "Groceries": 3, "Chase Travel": 3,
+      "Gas": 2, "Dining": 2, "Transit": 2, "Other": 1
+    },
+
+    "American Express Green": {
+      "Travel": 3, "Transit": 3, "Dining": 3, "Other": 1
+    },
+    "American Express Gold": {
+      "Dining": 4, "Groceries": 4, "Flights": 3, "Hotels": 2, "Other": 1
+    },
+    "American Express Platinum": {
+      "Flights": 5, "Hotels": 5, "Other": 1
+    },
+    "American Express Blue Cash Everyday": {
+      "Groceries": 3, "Online Shopping": 3, "Gas": 3, "Other": 1
+    },
+    "American Express Blue Cash Preferred": {
+      "Groceries": 6, "Streaming": 6, "Gas": 3, "Transit": 3, "Other": 1
+    },
+    "American Express Blue Business Plus": {
+      "Other": 2
+    },
+    "American Express Business Gold": {
+      "Top Category": 4, "Other": 1
+    },
+    "American Express Business Platinum": {
+      "Flights": 5, "Hotels": 5, "Other": 1
+    },
+
+    "Bank of America Customized Cash Rewards": {
+      "Choice Category": 3, "Groceries": 2, "Wholesale Clubs": 2, "Other": 1
+    },
+    "Bank of America Unlimited Cash Rewards": {
+      "Other": 1.5
+    },
+    "Bank of America Travel Rewards": {
+      "Travel": 3, "Other": 1.5
+    },
+    "Bank of America Premium Rewards": {
+      "Travel": 2, "Dining": 2, "Other": 1.5
+    },
+    "Bank of America Premium Rewards Elite": {
+      "Travel": 2, "Dining": 2, "Other": 1.5
+    },
+    "Bank of America Business Advantage Customized Cash Rewards": {
+      "Choice Category": 3, "Dining": 2, "Other": 1
+    },
+    "Bank of America Business Advantage Unlimited Cash Rewards": {
+      "Other": 1.5
+    },
+    "Bank of America Business Advantage Travel Rewards": {
+      "Travel": 3, "Other": 1.5
+    },
+
+    "Capital One VentureOne": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 1.25
+    },
+    "Capital One Quicksilver": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 1.5
+    },
+    "Capital One QuicksilverOne": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 1.5
+    },
+    "Capital One Savor": {
+      "Dining": 3, "Streaming": 3, "Groceries": 3, "Hotels": 5, "Car Rentals": 5, "Other": 1
+    },
+    "Capital One Venture": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 2
+    },
+    "Capital One Venture X": {
+      "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Other": 2
+    },
+    "Capital One Spark Cash Plus": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 2
+    },
+    "Capital One Spark Miles": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 2
+    },
+    "Capital One Venture X Business": {
+      "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Other": 2
+    },
+
+    "Chase Freedom Rise": {
+      "Other": 1.5
+    },
+    "Chase Freedom Unlimited": {
+      "Chase Travel": 5, "Dining": 3, "Drugstores": 3, "Other": 1.5
+    },
+    "Chase Freedom Flex": {
+      "Chase Travel": 5, "Dining": 3, "Drugstores": 3, "Rotating": 5, "Other": 1
+    },
+    "Chase Sapphire Preferred": {
+      "Chase Travel": 5, "Dining": 3, "Online Groceries": 3, "Streaming": 3, "Travel": 2, "Other": 1
+    },
+    "Chase Sapphire Reserve": {
+      "Chase Travel": 10, "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Travel": 3, "Dining": 3, "Other": 1
+    },
+    "Chase Ink Business Cash": {
+      "Internet": 5, "Phone": 5, "Gas": 2, "Dining": 2, "Other": 1
+    },
+    "Chase Ink Business Unlimited": {
+      "Other": 1.5
+    },
+    "Chase Ink Business Preferred": {
+      "Chase Travel": 3, "Travel": 3, "Shipping": 3, "Advertising": 3, "Internet": 3, "Phone": 3, "Other": 1
+    },
+    "Chase Ink Business Premier": {
+      "Other": 2
+    },
+    "Chase Sapphire Reserve for Business": {
+      "Chase Travel": 8, "Other": 1
+    },
+
+    "Citi Double Cash": {
+      "Hotels": 5, "Car Rentals": 5, "Other": 2
+    },
+    "Citi Custom Cash": {
+      "Top Category": 5, "Hotels": 4, "Car Rentals": 4, "Other": 1
+    },
+    "Citi Rewards+": {
+      "Groceries": 2, "Gas": 2, "Other": 1
+    },
+    "Citi Strata Premier": {
+      "Hotels": 10, "Car Rentals": 10, "Flights": 3, "Dining": 3, "Groceries": 3, "Gas": 3, "Other": 1
+    },
+    "Citi Strata Elite": {
+      "Hotels": 12, "Car Rentals": 12, "Flights": 6, "Dining": 3, "Other": 1.5
+    },
+
+    "Delta SkyMiles Blue American Express": {
+      "Flights": 2, "Dining": 2, "Other": 1
+    },
+    "Delta SkyMiles Gold American Express": {
+      "Flights": 2, "Dining": 2, "Groceries": 2, "Other": 1
+    },
+    "Delta SkyMiles Platinum American Express": {
+      "Flights": 3, "Hotels": 3, "Dining": 2, "Groceries": 2, "Other": 1
+    },
+    "Delta SkyMiles Reserve American Express": {
+      "Flights": 3, "Other": 1
+    },
+    "Delta SkyMiles Gold Business American Express": {
+      "Flights": 2, "Shipping": 2, "Advertising": 2, "Transit": 1.5, "Other": 1
+    },
+    "Delta SkyMiles Platinum Business American Express": {
+      "Flights": 3, "Transit": 1.5, "Shipping": 1.5, "Other": 1
+    },
+    "Delta SkyMiles Reserve Business American Express": {
+      "Flights": 3, "Transit": 1.5, "Shipping": 1.5, "Other": 1
+    },
+
+    "Discover It Cash Back": {
+      "Rotating": 5, "Other": 1
+    },
+    "Discover it Chrome": {
+      "Gas": 2, "Dining": 2, "Other": 1
+    },
+    "Discover it Miles": {
+      "Other": 1.5
+    },
+    "Discover it Student Cash Back": {
+      "Rotating": 5, "Other": 1
+    },
+    "Discover it Secured": {
+      "Gas": 2, "Dining": 2, "Other": 1
+    },
+
+    "U.S. Bank Smartly Visa Signature": {
+      "Other": 2
+    },
+    "U.S. Bank Altitude Connect": {
+      "Hotels": 5, "Car Rentals": 5, "Travel": 4, "Gas": 4, "Dining": 2, "Streaming": 2, "Groceries": 2, "Other": 1
+    },
+    "U.S. Bank Altitude Go": {
+      "Dining": 4, "Groceries": 2, "Gas": 2, "Streaming": 2, "Other": 1
+    },
+    "U.S. Bank Cash+": {
+      "Top Category": 5, "Other": 1
+    },
+    "U.S. Bank Altitude Reserve": {
+      "Hotels": 5, "Car Rentals": 5, "Travel": 3, "Other": 1
+    },
+    "U.S. Bank Business Altitude Connect": {
+      "Hotels": 5, "Car Rentals": 5, "Travel": 4, "Dining": 2, "Phone": 2, "Other": 1
+    },
+    "U.S. Bank Triple Cash Rewards": {
+      "Hotels": 5, "Car Rentals": 5, "Dining": 3, "Gas": 3, "Phone": 3, "Other": 1
+    },
+    "U.S. Bank Business Altitude Power": {
+      "Top Category": 6, "Other": 1.5
+    },
+
+    "Wells Fargo Active Cash": {
+      "Other": 2
+    },
+    "Wells Fargo Autograph": {
+      "Dining": 3, "Travel": 3, "Gas": 3, "Transit": 3, "Streaming": 3, "Phone": 3, "Other": 1
+    },
+    "Wells Fargo Autograph Journey": {
+      "Hotels": 5, "Flights": 4, "Dining": 3, "Travel": 3, "Other": 1
+    },
+    "Wells Fargo Signify Business Cash": {
+      "Other": 2
+    }
+
+  },
+
+  "merchantDatabase": {
+    "airbnb.com": "Hotels",
+    "booking.com": "Hotels",
+    "hotels.com": "Hotels",
+    "expedia.com": "Travel",
+    "kayak.com": "Travel",
+    "delta.com": "Flights",
+    "united.com": "Flights",
+    "southwest.com": "Flights",
+    "aa.com": "Flights",
+    "alaskaair.com": "Flights",
+    "jetblue.com": "Flights",
+    "spirit.com": "Flights",
+    "uber.com": "Transit",
+    "lyft.com": "Transit",
+    "doordash.com": "Dining",
+    "ubereats.com": "Dining",
+    "grubhub.com": "Dining",
+    "postmates.com": "Dining",
+    "seamless.com": "Dining",
+    "starbucks.com": "Dining",
+    "chipotle.com": "Dining",
+    "mcdonalds.com": "Dining",
+    "subway.com": "Dining",
+    "wendys.com": "Dining",
+    "dominos.com": "Dining",
+    "pizzahut.com": "Dining",
+    "chick-fil-a.com": "Dining",
+    "tacobell.com": "Dining",
+    "wholefoodsmarket.com": "Groceries",
+    "kroger.com": "Groceries",
+    "safeway.com": "Groceries",
+    "albertsons.com": "Groceries",
+    "instacart.com": "Online Groceries",
+    "costco.com": "Wholesale Clubs",
+    "samsclub.com": "Wholesale Clubs",
+    "bjs.com": "Wholesale Clubs",
+    "shell.com": "Gas",
+    "chevron.com": "Gas",
+    "exxon.com": "Gas",
+    "bp.com": "Gas",
+    "mobil.com": "Gas",
+    "speedway.com": "Gas",
+    "circlek.com": "Gas",
+    "netflix.com": "Streaming",
+    "hulu.com": "Streaming",
+    "disneyplus.com": "Streaming",
+    "spotify.com": "Streaming",
+    "hbomax.com": "Streaming",
+    "peacocktv.com": "Streaming",
+    "paramountplus.com": "Streaming",
+    "appletv.com": "Streaming",
+    "amazon.com": "Amazon",
+    "amazon.co.uk": "Amazon",
+    "amazon.ca": "Amazon",
+    "walmart.com": "Other",
+    "target.com": "Other",
+    "bestbuy.com": "Other",
+    "ebay.com": "Other",
+    "etsy.com": "Other",
+    "wayfair.com": "Other",
+    "chewy.com": "Other",
+    "cvs.com": "Drugstores",
+    "walgreens.com": "Drugstores",
+    "riteaid.com": "Drugstores",
+    "pharmacy.amazon.com": "Drugstores",
+    "ads.google.com": "Advertising",
+    "facebook.com/ads": "Advertising",
+    "fedex.com": "Shipping",
+    "ups.com": "Shipping",
+    "usps.com": "Shipping"
+  }
+}
