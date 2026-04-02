@@ -7,7 +7,7 @@
 
     "Amazon Prime Visa": {
       "Amazon": 5, "Groceries": 5, "Chase Travel": 5,
-      "Gas": 1, "Dining": 2, "Transit": 2, "Other": 1
+      "Gas": 2, "Dining": 2, "Transit": 2, "Other": 1
     },
     "Amazon Visa": {
       "Amazon": 3, "Groceries": 3, "Chase Travel": 3,
