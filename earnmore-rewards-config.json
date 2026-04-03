@@ -1,216 +1,436 @@
 {
   "meta": {
     "last_verified": "2026-04",
-    "notes": "Rewards rates subject to change. Always confirm on issuer website before applying."
+    "notes": "Rewards rates subject to change. Always confirm on issuer website before applying. Portal rates (e.g. Chase Travel, Amex Travel, Capital One Travel) only apply when booking through that issuer's portal. Categories earning at the same rate as Other are omitted."
   },
   "cardsDatabase": {
 
     "Amazon Prime Visa": {
-      "Amazon": 5, "Groceries": 5, "Chase Travel": 5,
-      "Gas": 2, "Dining": 2, "Transit": 2, "Other": 1
+      "Amazon": 5,
+      "Whole Foods": 5,
+      "Chase Travel": 5,
+      "Gas": 2,
+      "Dining": 2,
+      "Transit": 2,
+      "Other": 1
     },
+
     "Amazon Visa": {
-      "Amazon": 3, "Groceries": 3, "Chase Travel": 3,
-      "Gas": 2, "Dining": 2, "Transit": 2, "Other": 1
+      "Amazon": 3,
+      "Whole Foods": 3,
+      "Chase Travel": 3,
+      "Gas": 2,
+      "Dining": 2,
+      "Transit": 2,
+      "Other": 1
     },
 
     "American Express Green": {
-      "Travel": 3, "Transit": 3, "Dining": 3, "Other": 1
+      "Travel": 3,
+      "Transit": 3,
+      "Dining": 3,
+      "Other": 1
     },
+
     "American Express Gold": {
-      "Dining": 4, "Groceries": 4, "Flights": 3, "Hotels": 2, "Other": 1
+      "Dining": 4,
+      "Groceries": 4,
+      "Flights": 3,
+      "Other": 1
     },
+
     "American Express Platinum": {
-      "Flights": 5, "Hotels": 5, "Other": 1
+      "Flights": 5,
+      "Amex Travel": 5,
+      "Other": 1
     },
+
     "American Express Blue Cash Everyday": {
-      "Groceries": 3, "Online Shopping": 3, "Gas": 3, "Other": 1
+      "Groceries": 3,
+      "Online Shopping": 3,
+      "Gas": 3,
+      "Other": 1
     },
+
     "American Express Blue Cash Preferred": {
-      "Groceries": 6, "Streaming": 6, "Gas": 3, "Transit": 3, "Other": 1
+      "Groceries": 6,
+      "Streaming": 6,
+      "Gas": 3,
+      "Transit": 3,
+      "Other": 1
     },
+
     "American Express Blue Business Plus": {
       "Other": 2
     },
+
     "American Express Business Gold": {
-      "Top Category": 4, "Other": 1
+      "Top Category": 4,
+      "Other": 1
     },
+
     "American Express Business Platinum": {
-      "Flights": 5, "Hotels": 5, "Other": 1
+      "Flights": 5,
+      "Amex Travel": 5,
+      "Other": 1
     },
 
     "Bank of America Customized Cash Rewards": {
-      "Choice Category": 3, "Groceries": 2, "Wholesale Clubs": 2, "Other": 1
+      "Choice Category": 3,
+      "Groceries": 2,
+      "Wholesale Clubs": 2,
+      "Other": 1
     },
+
     "Bank of America Unlimited Cash Rewards": {
       "Other": 1.5
     },
+
     "Bank of America Travel Rewards": {
-      "Travel": 3, "Other": 1.5
+      "Travel": 3,
+      "Other": 1.5
     },
+
     "Bank of America Premium Rewards": {
-      "Travel": 2, "Dining": 2, "Other": 1.5
+      "Travel": 2,
+      "Dining": 2,
+      "Other": 1.5
     },
+
     "Bank of America Premium Rewards Elite": {
-      "Travel": 2, "Dining": 2, "Other": 1.5
+      "Travel": 2,
+      "Dining": 2,
+      "Other": 1.5
     },
+
     "Bank of America Business Advantage Customized Cash Rewards": {
-      "Choice Category": 3, "Dining": 2, "Other": 1
+      "Choice Category": 3,
+      "Dining": 2,
+      "Other": 1
     },
+
     "Bank of America Business Advantage Unlimited Cash Rewards": {
       "Other": 1.5
     },
+
     "Bank of America Business Advantage Travel Rewards": {
-      "Travel": 3, "Other": 1.5
+      "Travel": 3,
+      "Other": 1.5
     },
 
     "Capital One VentureOne": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 1.25
+      "Capital One Travel": 5,
+      "Other": 1.25
     },
+
     "Capital One Quicksilver": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 1.5
+      "Capital One Travel": 5,
+      "Other": 1.5
     },
+
     "Capital One QuicksilverOne": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 1.5
+      "Capital One Travel": 5,
+      "Other": 1.5
     },
+
     "Capital One Savor": {
-      "Dining": 3, "Streaming": 3, "Groceries": 3, "Hotels": 5, "Car Rentals": 5, "Other": 1
+      "Capital One Entertainment": 8,
+      "Capital One Travel": 5,
+      "Dining": 3,
+      "Entertainment": 3,
+      "Streaming": 3,
+      "Groceries": 3,
+      "Other": 1
     },
+
     "Capital One Venture": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 2
+      "Capital One Travel": 5,
+      "Other": 2
     },
+
     "Capital One Venture X": {
-      "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Other": 2
+      "Capital One Travel": 10,
+      "Flights": 5,
+      "Other": 2
     },
+
     "Capital One Spark Cash Plus": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 2
+      "Capital One Travel": 5,
+      "Other": 2
     },
+
     "Capital One Spark Miles": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 2
+      "Capital One Travel": 5,
+      "Other": 2
     },
+
     "Capital One Venture X Business": {
-      "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Other": 2
+      "Capital One Travel": 10,
+      "Flights": 5,
+      "Other": 2
     },
 
     "Chase Freedom Rise": {
       "Other": 1.5
     },
+
     "Chase Freedom Unlimited": {
-      "Chase Travel": 5, "Dining": 3, "Drugstores": 3, "Other": 1.5
+      "Chase Travel": 5,
+      "Dining": 3,
+      "Drugstores": 3,
+      "Other": 1.5
     },
+
     "Chase Freedom Flex": {
-      "Chase Travel": 5, "Dining": 3, "Drugstores": 3, "Rotating": 5, "Other": 1
+      "Chase Travel": 5,
+      "Dining": 3,
+      "Drugstores": 3,
+      "Rotating": 5,
+      "Other": 1
     },
+
     "Chase Sapphire Preferred": {
-      "Chase Travel": 5, "Dining": 3, "Online Groceries": 3, "Streaming": 3, "Travel": 2, "Other": 1
+      "Chase Travel": 5,
+      "Dining": 3,
+      "Online Groceries": 3,
+      "Streaming": 3,
+      "Travel": 2,
+      "Other": 1
     },
+
     "Chase Sapphire Reserve": {
-      "Chase Travel": 10, "Hotels": 10, "Car Rentals": 10, "Flights": 5, "Travel": 3, "Dining": 3, "Other": 1
+      "Chase Travel": 8,
+      "Flights": 4,
+      "Hotels": 4,
+      "Dining": 3,
+      "Other": 1
     },
+
     "Chase Ink Business Cash": {
-      "Internet": 5, "Phone": 5, "Gas": 2, "Dining": 2, "Other": 1
+      "Internet": 5,
+      "Phone": 5,
+      "Gas": 2,
+      "Dining": 2,
+      "Other": 1
     },
+
     "Chase Ink Business Unlimited": {
       "Other": 1.5
     },
+
     "Chase Ink Business Preferred": {
-      "Chase Travel": 3, "Travel": 3, "Shipping": 3, "Advertising": 3, "Internet": 3, "Phone": 3, "Other": 1
+      "Chase Travel": 3,
+      "Travel": 3,
+      "Shipping": 3,
+      "Advertising": 3,
+      "Internet": 3,
+      "Phone": 3,
+      "Other": 1
     },
+
     "Chase Ink Business Premier": {
       "Other": 2
     },
+
     "Chase Sapphire Reserve for Business": {
-      "Chase Travel": 8, "Other": 1
+      "Chase Travel": 8,
+      "Flights": 4,
+      "Hotels": 4,
+      "Other": 1
     },
 
     "Citi Double Cash": {
-      "Hotels": 5, "Car Rentals": 5, "Other": 2
+      "Citi Travel": 5,
+      "Other": 2
     },
+
     "Citi Custom Cash": {
-      "Top Category": 5, "Hotels": 4, "Car Rentals": 4, "Other": 1
+      "Top Category": 5,
+      "Citi Travel": 4,
+      "Other": 1
     },
+
     "Citi Rewards+": {
-      "Groceries": 2, "Gas": 2, "Other": 1
+      "Groceries": 2,
+      "Gas": 2,
+      "Other": 1
     },
+
     "Citi Strata Premier": {
-      "Hotels": 10, "Car Rentals": 10, "Flights": 3, "Dining": 3, "Groceries": 3, "Gas": 3, "Other": 1
+      "Citi Travel": 10,
+      "Hotels": 3,
+      "Flights": 3,
+      "Dining": 3,
+      "Groceries": 3,
+      "Gas": 3,
+      "EV Charging": 3,
+      "Other": 1
     },
+
     "Citi Strata Elite": {
-      "Hotels": 12, "Car Rentals": 12, "Flights": 6, "Dining": 3, "Other": 1.5
+      "Citi Travel": 12,
+      "Flights": 6,
+      "Dining Weekend": 6,
+      "Dining": 3,
+      "Other": 1.5
     },
 
     "Delta SkyMiles Blue American Express": {
-      "Flights": 2, "Dining": 2, "Other": 1
+      "Flights": 2,
+      "Dining": 2,
+      "Other": 1
     },
+
     "Delta SkyMiles Gold American Express": {
-      "Flights": 2, "Dining": 2, "Groceries": 2, "Other": 1
+      "Flights": 2,
+      "Dining": 2,
+      "Groceries": 2,
+      "Other": 1
     },
+
     "Delta SkyMiles Platinum American Express": {
-      "Flights": 3, "Hotels": 3, "Dining": 2, "Groceries": 2, "Other": 1
+      "Flights": 3,
+      "Hotels": 3,
+      "Dining": 2,
+      "Groceries": 2,
+      "Other": 1
     },
+
     "Delta SkyMiles Reserve American Express": {
-      "Flights": 3, "Other": 1
+      "Flights": 3,
+      "Other": 1
     },
+
     "Delta SkyMiles Gold Business American Express": {
-      "Flights": 2, "Shipping": 2, "Advertising": 2, "Transit": 1.5, "Other": 1
+      "Flights": 2,
+      "Shipping": 2,
+      "Advertising": 2,
+      "Transit": 1.5,
+      "Other": 1
     },
+
     "Delta SkyMiles Platinum Business American Express": {
-      "Flights": 3, "Transit": 1.5, "Shipping": 1.5, "Other": 1
+      "Flights": 3,
+      "Transit": 1.5,
+      "Shipping": 1.5,
+      "Other": 1
     },
+
     "Delta SkyMiles Reserve Business American Express": {
-      "Flights": 3, "Transit": 1.5, "Shipping": 1.5, "Other": 1
+      "Flights": 3,
+      "Transit": 1.5,
+      "Shipping": 1.5,
+      "Other": 1
     },
 
     "Discover It Cash Back": {
-      "Rotating": 5, "Other": 1
+      "Rotating": 5,
+      "Other": 1
     },
+
     "Discover it Chrome": {
-      "Gas": 2, "Dining": 2, "Other": 1
+      "Gas": 2,
+      "Dining": 2,
+      "Other": 1
     },
+
     "Discover it Miles": {
       "Other": 1.5
     },
+
     "Discover it Student Cash Back": {
-      "Rotating": 5, "Other": 1
+      "Rotating": 5,
+      "Other": 1
     },
+
     "Discover it Secured": {
-      "Gas": 2, "Dining": 2, "Other": 1
+      "Gas": 2,
+      "Dining": 2,
+      "Other": 1
     },
 
     "U.S. Bank Smartly Visa Signature": {
       "Other": 2
     },
+
     "U.S. Bank Altitude Connect": {
-      "Hotels": 5, "Car Rentals": 5, "Travel": 4, "Gas": 4, "Dining": 2, "Streaming": 2, "Groceries": 2, "Other": 1
+      "US Bank Travel": 5,
+      "Travel": 4,
+      "Gas": 4,
+      "EV Charging": 4,
+      "Dining": 2,
+      "Streaming": 2,
+      "Groceries": 2,
+      "Other": 1
     },
+
     "U.S. Bank Altitude Go": {
-      "Dining": 4, "Groceries": 2, "Gas": 2, "Streaming": 2, "Other": 1
+      "Dining": 4,
+      "Groceries": 2,
+      "Gas": 2,
+      "Streaming": 2,
+      "Other": 1
     },
+
     "U.S. Bank Cash+": {
-      "Top Category": 5, "Other": 1
+      "Top Category": 5,
+      "Other": 1
     },
+
     "U.S. Bank Altitude Reserve": {
-      "Hotels": 5, "Car Rentals": 5, "Travel": 3, "Other": 1
+      "US Bank Travel": 5,
+      "Travel": 3,
+      "Other": 1
     },
+
     "U.S. Bank Business Altitude Connect": {
-      "Hotels": 5, "Car Rentals": 5, "Travel": 4, "Dining": 2, "Phone": 2, "Other": 1
+      "US Bank Travel": 5,
+      "Travel": 4,
+      "Gas": 4,
+      "EV Charging": 4,
+      "Dining": 2,
+      "Phone": 2,
+      "Other": 1
     },
+
     "U.S. Bank Triple Cash Rewards": {
-      "Hotels": 5, "Car Rentals": 5, "Dining": 3, "Gas": 3, "Phone": 3, "Other": 1
+      "US Bank Travel": 5,
+      "Dining": 3,
+      "Gas": 3,
+      "EV Charging": 3,
+      "Office Supplies": 3,
+      "Phone": 3,
+      "Other": 1
     },
+
     "U.S. Bank Business Altitude Power": {
-      "Top Category": 6, "Other": 1.5
+      "Top Category": 6,
+      "Other": 1.5
     },
 
     "Wells Fargo Active Cash": {
       "Other": 2
     },
+
     "Wells Fargo Autograph": {
-      "Dining": 3, "Travel": 3, "Gas": 3, "Transit": 3, "Streaming": 3, "Phone": 3, "Other": 1
+      "Dining": 3,
+      "Travel": 3,
+      "Gas": 3,
+      "EV Charging": 3,
+      "Transit": 3,
+      "Streaming": 3,
+      "Phone": 3,
+      "Other": 1
     },
+
     "Wells Fargo Autograph Journey": {
-      "Hotels": 5, "Flights": 4, "Dining": 3, "Travel": 3, "Other": 1
+      "Hotels": 5,
+      "Flights": 4,
+      "Dining": 3,
+      "Travel": 3,
+      "Other": 1
     },
+
     "Wells Fargo Signify Business Cash": {
       "Other": 2
     }
@@ -218,11 +438,13 @@
   },
 
   "merchantDatabase": {
-    "airbnb.com": "Hotels",
-    "booking.com": "Hotels",
-    "hotels.com": "Hotels",
-    "expedia.com": "Travel",
-    "kayak.com": "Travel",
+
+    "chasetravel.com": "Chase Travel",
+    "amextravel.com": "Amex Travel",
+    "travel.capitalone.com": "Capital One Travel",
+    "entertainment.capitalone.com": "Capital One Entertainment",
+    "cititravel.com": "Citi Travel",
+
     "delta.com": "Flights",
     "united.com": "Flights",
     "southwest.com": "Flights",
@@ -230,13 +452,129 @@
     "alaskaair.com": "Flights",
     "jetblue.com": "Flights",
     "spirit.com": "Flights",
+    "frontierairlines.com": "Flights",
+    "flyfrontier.com": "Flights",
+    "hawaiianairlines.com": "Flights",
+    "allegiantair.com": "Flights",
+    "britishairways.com": "Flights",
+    "airfrance.com": "Flights",
+    "lufthansa.com": "Flights",
+    "klm.com": "Flights",
+    "emirates.com": "Flights",
+    "qatarairways.com": "Flights",
+    "singaporeair.com": "Flights",
+    "ana.co.jp": "Flights",
+    "aeromexico.com": "Flights",
+    "avianca.com": "Flights",
+    "latamairlines.com": "Flights",
+    "turkishairlines.com": "Flights",
+    "aircanada.com": "Flights",
+    "virginatlantic.com": "Flights",
+    "easyjet.com": "Flights",
+    "ryanair.com": "Flights",
+    "flydubai.com": "Flights",
+    "sunwing.ca": "Flights",
+
+    "marriott.com": "Hotels",
+    "hilton.com": "Hotels",
+    "hyatt.com": "Hotels",
+    "ihg.com": "Hotels",
+    "wyndhamhotels.com": "Hotels",
+    "choicehotels.com": "Hotels",
+    "bestwestern.com": "Hotels",
+    "radissonhotels.com": "Hotels",
+    "accor.com": "Hotels",
+    "fourseasons.com": "Hotels",
+    "ritz-carlton.com": "Hotels",
+    "starwoodhotels.com": "Hotels",
+    "motel6.com": "Hotels",
+    "super8.com": "Hotels",
+    "daysinn.com": "Hotels",
+    "holidayinn.com": "Hotels",
+    "hamptoninn.com": "Hotels",
+    "doubletree.com": "Hotels",
+    "sheraton.com": "Hotels",
+    "westin.com": "Hotels",
+    "whotels.com": "Hotels",
+    "stregis.com": "Hotels",
+    "lemeridien.com": "Hotels",
+    "autograph-hotels.com": "Hotels",
+    "courtyardmarriott.com": "Hotels",
+    "residenceinn.com": "Hotels",
+    "fairfieldinn.com": "Hotels",
+    "springhillsuites.com": "Hotels",
+    "alofthotels.com": "Hotels",
+    "elementhotels.com": "Hotels",
+    "moxy-hotels.com": "Hotels",
+    "ac-hotels.com": "Hotels",
+    "hiltonhotels.com": "Hotels",
+    "doubletreehilton.com": "Hotels",
+    "waldorfastoria.com": "Hotels",
+    "conradhotels.com": "Hotels",
+    "curiocollection.com": "Hotels",
+    "tapestrycollection.com": "Hotels",
+    "hyattplace.com": "Hotels",
+    "hyattregency.com": "Hotels",
+    "grandhyatt.com": "Hotels",
+    "parkhyatt.com": "Hotels",
+    "andazhotels.com": "Hotels",
+    "thompsonhotels.com": "Hotels",
+    "interconti.com": "Hotels",
+    "crowneplaza.com": "Hotels",
+    "kimptonhotels.com": "Hotels",
+    "hotelindigo.com": "Hotels",
+    "staybridge.com": "Hotels",
+    "candlewoodsuites.com": "Hotels",
+    "avid-hotels.com": "Hotels",
+    "sixsenses.com": "Hotels",
+    "mrsmith.com": "Hotels",
+    "airbnb.com": "Hotels",
+    "vrbo.com": "Hotels",
+    "booking.com": "Hotels",
+    "hotels.com": "Hotels",
+    "hotwire.com": "Hotels",
+
+    "expedia.com": "Travel",
+    "kayak.com": "Travel",
+    "priceline.com": "Travel",
+    "tripadvisor.com": "Travel",
+    "travelocity.com": "Travel",
+    "orbitz.com": "Travel",
+    "cheaptickets.com": "Travel",
+    "skyscanner.com": "Travel",
+    "viator.com": "Travel",
+    "getyourguide.com": "Travel",
+    "cruises.com": "Travel",
+    "carnival.com": "Travel",
+    "royalcaribbean.com": "Travel",
+    "ncl.com": "Travel",
+    "princess.com": "Travel",
+    "celebrity-cruises.com": "Travel",
+    "hollandamerica.com": "Travel",
+    "amtrak.com": "Travel",
+
+    "hertz.com": "Car Rentals",
+    "enterprise.com": "Car Rentals",
+    "avis.com": "Car Rentals",
+    "budget.com": "Car Rentals",
+    "nationalcar.com": "Car Rentals",
+    "alamo.com": "Car Rentals",
+    "thrifty.com": "Car Rentals",
+    "dollar.com": "Car Rentals",
+    "sixt.com": "Car Rentals",
+    "turo.com": "Car Rentals",
+    "zipcar.com": "Car Rentals",
+
     "uber.com": "Transit",
     "lyft.com": "Transit",
+
     "doordash.com": "Dining",
     "ubereats.com": "Dining",
     "grubhub.com": "Dining",
     "postmates.com": "Dining",
     "seamless.com": "Dining",
+    "caviar.com": "Dining",
+    "gopuff.com": "Dining",
     "starbucks.com": "Dining",
     "chipotle.com": "Dining",
     "mcdonalds.com": "Dining",
@@ -246,32 +584,204 @@
     "pizzahut.com": "Dining",
     "chick-fil-a.com": "Dining",
     "tacobell.com": "Dining",
+    "burgerking.com": "Dining",
+    "dunkindonuts.com": "Dining",
+    "dunkin.com": "Dining",
+    "panera.com": "Dining",
+    "panerabread.com": "Dining",
+    "olivegarden.com": "Dining",
+    "applebees.com": "Dining",
+    "texasroadhouse.com": "Dining",
+    "outback.com": "Dining",
+    "chilis.com": "Dining",
+    "dennys.com": "Dining",
+    "ihop.com": "Dining",
+    "crackerbarrel.com": "Dining",
+    "jackinthebox.com": "Dining",
+    "sonic.com": "Dining",
+    "arbys.com": "Dining",
+    "popeyeschicken.com": "Dining",
+    "wingstop.com": "Dining",
+    "zaxbys.com": "Dining",
+    "shakeshack.com": "Dining",
+    "fiveguys.com": "Dining",
+    "culvers.com": "Dining",
+    "whataburger.com": "Dining",
+    "checkers.com": "Dining",
+    "rallys.com": "Dining",
+    "jerseymikes.com": "Dining",
+    "jimmyjohns.com": "Dining",
+    "firehouse.com": "Dining",
+    "firehousesubs.com": "Dining",
+    "qdoba.com": "Dining",
+    "moes.com": "Dining",
+    "caferiobeans.com": "Dining",
+    "bostonmarket.com": "Dining",
+    "papajohns.com": "Dining",
+    "littlecaesars.com": "Dining",
+    "casanovasmexicangrill.com": "Dining",
+    "noodles.com": "Dining",
+    "steaknshake.com": "Dining",
+    "friendlys.com": "Dining",
+    "dairyqueen.com": "Dining",
+    "baskinrobbins.com": "Dining",
+    "coldstone.com": "Dining",
+    "haagen-dazs.com": "Dining",
+    "benandjerrys.com": "Dining",
+    "sweetgreen.com": "Dining",
+    "cava.com": "Dining",
+    "eataly.com": "Dining",
+    "restaurantweek.com": "Dining",
+    "opentable.com": "Dining",
+    "resy.com": "Dining",
+    "tock.com": "Dining",
+
     "wholefoodsmarket.com": "Groceries",
     "kroger.com": "Groceries",
     "safeway.com": "Groceries",
     "albertsons.com": "Groceries",
-    "instacart.com": "Online Groceries",
+    "publix.com": "Groceries",
+    "heb.com": "Groceries",
+    "wegmans.com": "Groceries",
+    "meijer.com": "Groceries",
+    "aldi.us": "Groceries",
+    "aldi.com": "Groceries",
+    "traderjoes.com": "Groceries",
+    "sprouts.com": "Groceries",
+    "ralphs.com": "Groceries",
+    "vons.com": "Groceries",
+    "pavilions.com": "Groceries",
+    "acmemarkets.com": "Groceries",
+    "giantfood.com": "Groceries",
+    "stopandshop.com": "Groceries",
+    "hannaford.com": "Groceries",
+    "foodlion.com": "Groceries",
+    "harristheeter.com": "Groceries",
+    "harristeeter.com": "Groceries",
+    "freshmarket.com": "Groceries",
+    "weis.com": "Groceries",
+    "shoprite.com": "Groceries",
+    "winco.com": "Groceries",
+    "winfood.com": "Groceries",
+    "smithsfoodanddrug.com": "Groceries",
+    "frysfood.com": "Groceries",
+    "kingsoopers.com": "Groceries",
+    "citymarket.com": "Groceries",
+    "dillons.com": "Groceries",
+    "foodscottsdale.com": "Groceries",
+    "gerbes.com": "Groceries",
+    "jay-c.com": "Groceries",
+    "marianos.com": "Groceries",
+    "pick-n-save.com": "Groceries",
+    "qualityfood.com": "Groceries",
+    "instacart.com": "Groceries",
+    "shipt.com": "Groceries",
+    "freshdirect.com": "Groceries",
+
     "costco.com": "Wholesale Clubs",
     "samsclub.com": "Wholesale Clubs",
     "bjs.com": "Wholesale Clubs",
-    "shell.com": "Gas",
-    "chevron.com": "Gas",
-    "exxon.com": "Gas",
-    "bp.com": "Gas",
-    "mobil.com": "Gas",
-    "speedway.com": "Gas",
-    "circlek.com": "Gas",
+
+    "chargepoint.com": "EV Charging",
+    "blink.com": "EV Charging",
+    "electrifyamerica.com": "EV Charging",
+    "evgo.com": "EV Charging",
+    "plugshare.com": "EV Charging",
+
     "netflix.com": "Streaming",
     "hulu.com": "Streaming",
     "disneyplus.com": "Streaming",
     "spotify.com": "Streaming",
+    "max.com": "Streaming",
     "hbomax.com": "Streaming",
     "peacocktv.com": "Streaming",
     "paramountplus.com": "Streaming",
-    "appletv.com": "Streaming",
+    "tv.apple.com": "Streaming",
+    "primevideo.com": "Streaming",
+    "crunchyroll.com": "Streaming",
+    "funimation.com": "Streaming",
+    "showtime.com": "Streaming",
+    "starz.com": "Streaming",
+    "shudder.com": "Streaming",
+    "britbox.com": "Streaming",
+    "acorn.tv": "Streaming",
+    "discoveryplus.com": "Streaming",
+    "philo.com": "Streaming",
+    "fubo.tv": "Streaming",
+    "fubotv.com": "Streaming",
+    "slingtv.com": "Streaming",
+    "directvstream.com": "Streaming",
+    "pandora.com": "Streaming",
+    "tidal.com": "Streaming",
+    "deezer.com": "Streaming",
+    "iheartradio.com": "Streaming",
+    "audible.com": "Streaming",
+    "tubitv.com": "Streaming",
+    "pluto.tv": "Streaming",
+    "plutotv.com": "Streaming",
+
     "amazon.com": "Amazon",
     "amazon.co.uk": "Amazon",
     "amazon.ca": "Amazon",
+
+    "cvs.com": "Drugstores",
+    "walgreens.com": "Drugstores",
+    "riteaid.com": "Drugstores",
+    "pharmacy.amazon.com": "Drugstores",
+    "duanereade.com": "Drugstores",
+    "kerrdrug.com": "Drugstores",
+
+    "fedex.com": "Shipping",
+    "ups.com": "Shipping",
+    "usps.com": "Shipping",
+    "dhl.com": "Shipping",
+    "shipbob.com": "Shipping",
+    "stamps.com": "Shipping",
+    "pitneyshipper.com": "Shipping",
+
+    "xfinity.com": "Internet",
+    "att.com": "Internet",
+    "verizon.com": "Internet",
+    "spectrum.com": "Internet",
+    "cox.com": "Internet",
+    "optimum.com": "Internet",
+    "frontier.com": "Internet",
+    "earthlink.com": "Internet",
+    "godaddy.com": "Internet",
+    "namecheap.com": "Internet",
+    "bluehost.com": "Internet",
+    "siteground.com": "Internet",
+    "hostgator.com": "Internet",
+    "cloudflare.com": "Internet",
+    "squarespace.com": "Internet",
+    "wix.com": "Internet",
+    "aws.amazon.com": "Internet",
+    "cloud.google.com": "Internet",
+    "azure.microsoft.com": "Internet",
+
+    "t-mobile.com": "Phone",
+    "boost.com": "Phone",
+    "boostmobile.com": "Phone",
+    "cricketwireless.com": "Phone",
+    "mintmobile.com": "Phone",
+    "uscellular.com": "Phone",
+    "wireless.att.com": "Phone",
+    "consumer.att.com": "Phone",
+    "verizonwireless.com": "Phone",
+
+    "staples.com": "Office Supplies",
+    "officedepot.com": "Office Supplies",
+    "officemax.com": "Office Supplies",
+
+    "ads.google.com": "Advertising",
+    "googleads.google.com": "Advertising",
+    "facebook.com/ads": "Advertising",
+    "meta.com/ads": "Advertising",
+    "business.twitter.com": "Advertising",
+    "ads.tiktok.com": "Advertising",
+    "advertising.amazon.com": "Advertising",
+    "bing.com/ads": "Advertising",
+
     "walmart.com": "Other",
     "target.com": "Other",
     "bestbuy.com": "Other",
@@ -279,14 +789,65 @@
     "etsy.com": "Other",
     "wayfair.com": "Other",
     "chewy.com": "Other",
-    "cvs.com": "Drugstores",
-    "walgreens.com": "Drugstores",
-    "riteaid.com": "Drugstores",
-    "pharmacy.amazon.com": "Drugstores",
-    "ads.google.com": "Advertising",
-    "facebook.com/ads": "Advertising",
-    "fedex.com": "Shipping",
-    "ups.com": "Shipping",
-    "usps.com": "Shipping"
+    "homedepot.com": "Other",
+    "lowes.com": "Other",
+    "kohls.com": "Other",
+    "macys.com": "Other",
+    "nordstrom.com": "Other",
+    "gap.com": "Other",
+    "oldnavy.com": "Other",
+    "bananarepublic.com": "Other",
+    "hm.com": "Other",
+    "zara.com": "Other",
+    "uniqlo.com": "Other",
+    "nike.com": "Other",
+    "adidas.com": "Other",
+    "underarmour.com": "Other",
+    "lululemon.com": "Other",
+    "aloyoga.com": "Other",
+    "mango.com": "Other",
+    "apple.com": "Other",
+    "microsoft.com": "Other",
+    "newegg.com": "Other",
+    "bhphotovideo.com": "Other",
+    "costcoauto.com": "Other",
+    "overstock.com": "Other",
+    "bedbathandbeyond.com": "Other",
+    "petco.com": "Other",
+    "petsmart.com": "Other",
+    "sephora.com": "Other",
+    "ulta.com": "Other",
+    "dickssportinggoods.com": "Other",
+    "rei.com": "Other",
+    "academy.com": "Other",
+    "bathandbodyworks.com": "Other",
+    "victoriassecret.com": "Other",
+    "tjmaxx.com": "Other",
+    "marshalls.com": "Other",
+    "homegoods.com": "Other",
+    "ross.com": "Other",
+    "burlington.com": "Other",
+    "dollargeneral.com": "Other",
+    "dollartree.com": "Other",
+    "familydollar.com": "Other",
+    "fivebelow.com": "Other",
+    "autozone.com": "Other",
+    "oreillyauto.com": "Other",
+    "advanceautoparts.com": "Other",
+    "ikea.com": "Other",
+    "crateandbarrel.com": "Other",
+    "cb2.com": "Other",
+    "potterybarn.com": "Other",
+    "williams-sonoma.com": "Other",
+    "anthropologie.com": "Other",
+    "urbanoutfitters.com": "Other",
+    "freepeople.com": "Other",
+    "asos.com": "Other",
+    "revolve.com": "Other",
+    "shopify.com": "Other",
+    "rakuten.com": "Other",
+    "wish.com": "Other",
+    "shein.com": "Other",
+    "temu.com": "Other"
   }
 }
